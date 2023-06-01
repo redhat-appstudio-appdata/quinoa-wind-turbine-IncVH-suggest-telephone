@@ -12,7 +12,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/bsutter-tenant/quinoa-wind-turbine/quinoa-wind-turbine-nmtn@sha256:03e6ae55514a3d058c0a30d4c5dcdafb1a19d0a6f8db2dfae7c85596acd19053
+      - image: quay.io/redhat-user-workloads/bsutter-tenant/quinoa-wind-turbine/quinoa-wind-turbine-nmtn@sha256:bea1f25363598f6a5803630accfd53e056ee0a8b3d78211704bbe148cc14266d
         name: my-java-quarkus
         resources: {}
 status: {}
